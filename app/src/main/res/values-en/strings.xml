@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sum and operations</string>
+    <string name="Input1Pantalla1"></string>
+    <string name="Input2Pantalla1"></string>
+    <string name="butResult">OPERATE</string>
+    <string name="result">Result: </string>
+    <string name="resultNum"></string>
+    <string name="Aviso">Introduce two numbers please</string>
+    <string name="AvisoRadioButton">Select an operation</string>
+    <string name="rbutSumar">Sum</string>
+    <string name="rbutRestar">Substract</string>
+
+</resources>
